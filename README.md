@@ -12,7 +12,7 @@ asterisk16:	16.16.1	1.
 
 #wget -O - http://repo.issabel.org/issabel4-netinstall.sh | bash
 
-NOTA: mirrorlist.centos.org não existe mais.
+mirrorlist.centos.org não existe mais.
 
 Do arquivo .repo:
 
