@@ -12,6 +12,8 @@ yum -y install wget
 
 wget -O - http://repo.issabel.org/issabel4-netinstall.sh | bash
 
+curl http://repo.issabel.org/issabel5-netinstall.sh | bash
+
 ###########################################################################
 
 #mirrorlist.centos.org não existe mais.
