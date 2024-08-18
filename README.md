@@ -12,6 +12,15 @@ yum -y install wget
 
 wget -O - http://repo.issabel.org/issabel4-netinstall.sh | bash   ( CENTOS 7 )
 
+#######################################################
+#Instalação Isaabel 5 - VPS 
+
+#Asterisk 18.19.0 or asterisk16:	16.16.1	1.
+
+yum update 
+
+yum -y install wget 
+
 curl http://repo.issabel.org/issabel5-netinstall.sh | bash    ( ROCKY 8 )
 
 ###########################################################################
