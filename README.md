@@ -10,9 +10,9 @@ yum update
 
 yum -y install wget 
 
-wget -O - http://repo.issabel.org/issabel4-netinstall.sh | bash
+wget -O - http://repo.issabel.org/issabel4-netinstall.sh | bash   ( CENTOS 7 )
 
-curl http://repo.issabel.org/issabel5-netinstall.sh | bash
+curl http://repo.issabel.org/issabel5-netinstall.sh | bash    ( ROCKY 8 )
 
 ###########################################################################
 
